@@ -1,1 +1,2 @@
 # MyPortfolio
+Simple personal portfolio
